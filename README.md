@@ -99,4 +99,8 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 
 Rather than share my contact details here and risk getting spammed, I'd recommend you get in touch with me via LinkedIn.
 
-[![github](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexfoxleigh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alexfoxleigh/)
+
+If you just want to say thanks if something I have built is useful to you then feel free to message me on LinkedIn or you could always buy me a coffee :)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I21FRCN)
