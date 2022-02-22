@@ -6,7 +6,7 @@
 
 That's a fair question. I'm Alex Foxleigh and it's very nice to meet you. I'm a freelance UI engineer, mostly focused on NodeJs and React.js. I work primarily in the public sector and was one of the founding creators of the [MOD.UK Design System](https://design-system.digital.mod.uk/). 
 
-I've also worked with various government/military sections including (but not limited to):
+I've also worked with various government/military agencies including (but not limited to):
 
 - [The Cabinet Office 'COBR' team](https://www.instituteforgovernment.org.uk/explainers/cobr-cobra) during the 2020 COVID-19 crisis.
 - [The NHS](https://www.nhs.uk/)
