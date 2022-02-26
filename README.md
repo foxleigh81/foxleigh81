@@ -39,8 +39,6 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 [![NextJS Logo](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.JS&logoColor=white)](https://nextjs.org/)&nbsp;
 [![ReactJS Logo](https://img.shields.io/badge/React.js-333?style=for-the-badge&logo=React&logoColor=61DAFB)](https://reactjs.org/)&nbsp;
 [![VueJS Logo](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.JS&logoColor=white)](https://vuejs.org/)&nbsp;
-[![Gatsby Logo](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/)&nbsp;
-[![GraphQL Logo](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)](https://graphql.org/)&nbsp;
 [![NodeJS Logo](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)&nbsp;
 [![Material UI Logo](https://img.shields.io/badge/material&nbsp;ui-007fff?style=for-the-badge&logo=mui&logoColor=white)](https://nodejs.org/en/)&nbsp;
 [![Storybook Logo](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)](https://reactjs.org/)&nbsp;
@@ -54,6 +52,8 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 [![Postgress Logo](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)&nbsp;
 [![MySQL Logo](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)&nbsp;
 [![Firebase Logo](https://img.shields.io/badge/firebase-333?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/?gclsrc=ds&gclsrc=ds)&nbsp;
+[![Gatsby Logo](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/)&nbsp;
+[![GraphQL Logo](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)](https://graphql.org/)&nbsp;
 [![Node-RED Logo](https://img.shields.io/badge/node&#8211;red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)](https://nodered.org/)&nbsp;
 
 ## DevOps / Hosting
