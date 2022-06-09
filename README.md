@@ -33,7 +33,7 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 
 ## Front end development
 
-[![HTML 5 Logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Storybook&logoColor=white)](https://html.spec.whatwg.org/multipage/)&nbsp;
+[![HTML 5 Logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.spec.whatwg.org/multipage/)&nbsp;
 [![CSS3 Logo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)&nbsp;
 [![SASS Logo](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)&nbsp;
 [![NextJS Logo](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.JS&logoColor=white)](https://nextjs.org/)&nbsp;
