@@ -1,6 +1,8 @@
 # Hello there 👋
 
-![Waving bear ](https://64.media.tumblr.com/0ef26c834a36d71b5bd10b4bd74ba9c3/tumblr_nbp5mwGYVT1ruw1vso2_250.gif)
+<img src="https://64.media.tumblr.com/0ef26c834a36d71b5bd10b4bd74ba9c3/tumblr_nbp5mwGYVT1ruw1vso2_250.gif" alt="An animated GIF of a waving bear" align="right" />
+
+[![Foxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxleigh81&theme=merko&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ Who am I? 
 
@@ -22,7 +24,7 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 
 - My day-to-day work is focused on building a design system for an undisclosed government agency. Sadly, I'm not able to talk about that any further.
 - A new blog system, I run a couple of blogs and am terrible at keeping them up to date (to the point where I'm ashamed to share any links). My current ones are gatsby based and use just plain markdown for the 'cms' but I am working on a new system that will be based on [Strapi](https://strapi.io/) and will allow me to have one CMS for all of my blogs. The front-end will be in [NextJs](https://nextjs.org/) and I'm hoping that with the exception of a few environment variables and stylsheets, I'll be able to use the same code-base for each blog, making it super easy to keep them all up to date.
-- A Chores management app for families, I have a [basic MVP](https://github.com/foxleigh81/autochore) of this up and running already but right now it heavily relies on 3rd party integrations such as [automate.io](https://automate.io), [Home Assistant](https://home-assistant.io), [Node-red](https://nodered.org) and the [Google Sheets API](https://developers.google.com/sheets/api/quickstart/nodejs). This is actually a perfect sytem for my personal needs but I can see a use-case for it for families as well and that will need to be a little more robust and unified. 
+- A Chores management app for families, I have a [basic MVP](https://github.com/foxleigh81/autochore) of this up and running already but right now it heavily relies on 3rd party integrations such as [automate.io](https://automate.io) (which is now discontinued!), [Home Assistant](https://home-assistant.io), [Node-red](https://nodered.org) and the [Google Sheets API](https://developers.google.com/sheets/api/quickstart/nodejs). This is actually a perfect sytem for my personal needs but I can see a use-case for it for families as well and that will need to be a little more robust and unified. 
 - An app to assist people when moving house
 - An [NPM package](https://www.npmjs.com/package/builda) to make quickly building apps and keeping codebases updated easier,
 - As always, I'm working on my smart home, this is a huge undertaking with a lot of moving parts, it's ostensibly based around [Home Assistant](https://home-assistant.io) using [Node-Red](https://nodered.org) for all of it's automations. I plan on writing a few blog posts about it soon.
@@ -70,7 +72,8 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 [![Ubuntu Logo](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)&nbsp;
 [![Windows Logo](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://ubuntu.com/)&nbsp;
 [![Debian Logo](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)&nbsp;
-[![NPM Logo](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)](https://www.docker.com/)&nbsp;
+[![NPM Logo](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)](https://www.npmjs.com/)&nbsp;
+[![Yarn Logo](https://img.shields.io/badge/YARN-2188b6?style=for-the-badge&logo=Yarn&logoColor=white)](https://yarnpkg.com/)&nbsp;
 [![Docker Logo](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.npmjs.com/)&nbsp;
 [![Unraid Logo](https://img.shields.io/badge/unraid-333?style=for-the-badge&logo=unraid&logoColor=F15A2C)](https://unraid.net/)&nbsp;
 [![CircleCI Logo](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/)&nbsp;
