@@ -2,8 +2,6 @@
 
 <img src="https://64.media.tumblr.com/0ef26c834a36d71b5bd10b4bd74ba9c3/tumblr_nbp5mwGYVT1ruw1vso2_250.gif" alt="An animated GIF of a waving bear" align="right" />
 
-[![Foxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxleigh81&theme=merko&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## ✨ Who am I? 
 
 That's a fair question. I'm Alex Foxleigh and it's very nice to meet you. I'm a freelance UI engineer, mostly focused on NodeJs and React.js. I work primarily in the public sector and was one of the founding creators of the [MOD.UK Design System](https://design-system.digital.mod.uk/). 
