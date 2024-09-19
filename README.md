@@ -4,7 +4,7 @@
 
 ## ✨ Who am I? 
 
-That's a fair question. I'm Alex Foxleigh and it's very nice to meet you. I'm a freelance UI engineer, mostly focused on NodeJs and React.js. I work primarily in the public sector and was one of the founding creators of the [MOD.UK Design System](https://design-system.digital.mod.uk/). 
+That's a fair question. I'm Alex Foxleigh and it's very nice to meet you. I'm a frontend technical architect/tech lead, mostly focused on NodeJs and React.js. I was one of the founding creators of the [MOD.UK Design System](https://design-system.digital.mod.uk/). 
 
 I've also worked with various government/military agencies including (but not limited to):
 
@@ -15,22 +15,23 @@ I've also worked with various government/military agencies including (but not li
 - [The Home Office](https://www.homeoffice.gov.uk/)
 - [The Ministry of Justice](https://www.justice.gov.uk/)
 - [The Department for International Trade](https://www.trade.gov.uk/)
+- The UK Intelligence community
 
 I'm a big smart-home enthusiast and a general automation nerd (blog post coming soon).
 
 ## ⚙️ &nbsp; I’m currently working on
 
-- A new blog system, I run a couple of blogs and am terrible at keeping them up to date (to the point where I'm ashamed to share any links). My current ones are gatsby based and use just plain markdown for the 'cms' but I am working on a new system that will be based on [Strapi](https://strapi.io/) and will allow me to have one CMS for all of my blogs. The front-end will be in [NextJs](https://nextjs.org/) and I'm hoping that with the exception of a few environment variables and stylsheets, I'll be able to use the same code-base for each blog, making it super easy to keep them all up to date.
 - A Chores management app for families, I have a [basic MVP](https://github.com/foxleigh81/autochore) of this up and running already but right now it heavily relies on 3rd party integrations such as [automate.io](https://automate.io) (which is now discontinued!), [Home Assistant](https://home-assistant.io), [Node-red](https://nodered.org) and the [Google Sheets API](https://developers.google.com/sheets/api/quickstart/nodejs). This is actually a perfect sytem for my personal needs but I can see a use-case for it for families as well and that will need to be a little more robust and unified. 
 - An app to assist people when moving house
-- An [NPM package](https://www.npmjs.com/package/builda) to make quickly building apps and keeping codebases updated easier,
+- [CV Blaster](https://github.com/foxleigh81/cv-blaster) A python/next tool to help people to manage their CV's online
 - As always, I'm working on my smart home, this is a huge undertaking with a lot of moving parts, it's ostensibly based around [Home Assistant](https://home-assistant.io) using [Node-Red](https://nodered.org) for all of it's automations. I plan on writing a few blog posts about it soon.
 
 ## Languages
 
 [![TypeScript Logo](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)&nbsp;
 [![JavaScript Logo](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://www.javascript.com/)&nbsp;
-[![Python Logo](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=3776AB)](https://www.python.org/)
+[![NodeJS Logo](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)&nbsp;
+[![Python Logo](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://nodejs.org/en/)&nbsp;
 
 ## Front end development
 
@@ -40,7 +41,7 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 [![NextJS Logo](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.JS&logoColor=white)](https://nextjs.org/)&nbsp;
 [![ReactJS Logo](https://img.shields.io/badge/React.js-333?style=for-the-badge&logo=React&logoColor=61DAFB)](https://reactjs.org/)&nbsp;
 [![VueJS Logo](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.JS&logoColor=white)](https://vuejs.org/)&nbsp;
-[![NodeJS Logo](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)&nbsp;
+[![Tailwind lLogo](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Material UI Logo](https://img.shields.io/badge/material&nbsp;ui-007fff?style=for-the-badge&logo=mui&logoColor=white)](https://nodejs.org/en/)&nbsp;
 [![Storybook Logo](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)](https://reactjs.org/)&nbsp;
 [![Prettier Logo](https://img.shields.io/badge/PRETTIER-333?style=for-the-badge&logo=prettier&logoColor=F7B93E)](https://prettier.io/)&nbsp;
@@ -49,25 +50,28 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 
 ## Backend / DB development
 
+[![NodeJS Logo](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)&nbsp;
+[![Python Logo](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://nodejs.org/en/)&nbsp;
+[![Node-RED Logo](https://img.shields.io/badge/node&#8211;red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)](https://nodered.org/)&nbsp;
 [![MongoDB Logo](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)&nbsp;
 [![Postgress Logo](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)&nbsp;
 [![MySQL Logo](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)&nbsp;
 [![Firebase Logo](https://img.shields.io/badge/firebase-333?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/?gclsrc=ds&gclsrc=ds)&nbsp;
 [![Gatsby Logo](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/)&nbsp;
+[![Sanity Logo](https://img.shields.io/badge/sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)](https://www.sanity.io/)&nbsp;
 [![GraphQL Logo](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)](https://graphql.org/)&nbsp;
-[![Node-RED Logo](https://img.shields.io/badge/node&#8211;red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)](https://nodered.org/)&nbsp;
 
 ## DevOps / Hosting
 
 [![Github Logo](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)&nbsp;
 [![Gitlab Logo](https://img.shields.io/badge/gitlab-555?style=for-the-badge&logo=GitLab&logoColor=FCA121)](https://www.gitlab.com/)&nbsp;
 [![Bitbucket Logo](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://www.bitbucket.org/)&nbsp;
+[![Vercel Logo](https://img.shields.io/badge/vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://www.netlify.com/)&nbsp;
 [![Netlify Logo](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)&nbsp;
 [![Heroku Logo](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)&nbsp;
 [![NGINX Logo](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)&nbsp;
 [![Apache Logo](https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://www.apache.org/)&nbsp;
 [![Ubuntu Logo](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)&nbsp;
-[![Windows Logo](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://ubuntu.com/)&nbsp;
 [![Debian Logo](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)&nbsp;
 [![NPM Logo](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)](https://www.npmjs.com/)&nbsp;
 [![Yarn Logo](https://img.shields.io/badge/YARN-2188b6?style=for-the-badge&logo=Yarn&logoColor=white)](https://yarnpkg.com/)&nbsp;
@@ -105,4 +109,5 @@ Rather than share my contact details here and risk getting spammed, I'd recommen
 
 If you just want to say thanks if something I have built is useful to you then feel free to message me on LinkedIn or you could always buy me a coffee :)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I21FRCN)
+[![ko-fi](https://img.shields.io/badge/-KoFi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/I3I21FRCN)
+[![patreon](https://img.shields.io/badge/patreon-000000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/spacenectar)
