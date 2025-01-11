@@ -21,9 +21,10 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 
 ## ⚙️ &nbsp; I’m currently working on
 
-- A Chores management app for families, I have a [basic MVP](https://github.com/foxleigh81/autochore) of this up and running already but right now it heavily relies on 3rd party integrations such as [automate.io](https://automate.io) (which is now discontinued!), [Home Assistant](https://home-assistant.io), [Node-red](https://nodered.org) and the [Google Sheets API](https://developers.google.com/sheets/api/quickstart/nodejs). This is actually a perfect sytem for my personal needs but I can see a use-case for it for families as well and that will need to be a little more robust and unified. 
-- An app to assist people when moving house
-- [CV Blaster](https://github.com/foxleigh81/cv-blaster) A python/next tool to help people to manage their CV's online
+- A React/Python app to assist people with moving house
+- [CV Blaster](https://github.com/foxleigh81/cv-blaster) A Python/NextJS tool to help people to manage their CV's online
+- A new Kubernetes-based homelab
+- A NextJS/Sanity rebuild of my [Personal website](http://www.alexfoxleigh.com) which is now YEARS out of date.
 - As always, I'm working on my smart home, this is a huge undertaking with a lot of moving parts, it's ostensibly based around [Home Assistant](https://home-assistant.io) using [Node-Red](https://nodered.org) for all of it's automations. I plan on writing a few blog posts about it soon.
 
 ## Languages
