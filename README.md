@@ -23,7 +23,7 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 
 - A React/Python app to assist people with moving house
 - [CV Blaster](https://github.com/foxleigh81/cv-blaster) A Python/NextJS tool to help people to manage their CV's online
-- A new Kubernetes-based homelab
+- A new Kubernetes-based homelab. You can see [my GitOps configs here](https://github.com/foxleigh81/homelab)
 - A NextJS/Sanity rebuild of my [Personal website](http://www.alexfoxleigh.com) which is now YEARS out of date.
 - As always, I'm working on my smart home, this is a huge undertaking with a lot of moving parts, it's ostensibly based around [Home Assistant](https://home-assistant.io) using [Node-Red](https://nodered.org) for all of it's automations. I plan on writing a few blog posts about it soon.
 
@@ -67,6 +67,7 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 [![Github Logo](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)&nbsp;
 [![Gitlab Logo](https://img.shields.io/badge/gitlab-555?style=for-the-badge&logo=GitLab&logoColor=FCA121)](https://www.gitlab.com/)&nbsp;
 [![Bitbucket Logo](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://www.bitbucket.org/)&nbsp;
+[![Kubernetes Logo](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)&nbsp;
 [![Vercel Logo](https://img.shields.io/badge/vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://www.netlify.com/)&nbsp;
 [![Netlify Logo](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)&nbsp;
 [![Heroku Logo](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)&nbsp;
