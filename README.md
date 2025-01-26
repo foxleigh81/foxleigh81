@@ -21,6 +21,7 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 
 ## ⚙️ &nbsp; I’m currently working on
 
+- I'm currently working with The Arch Company to support and augment the [new website](https://www.thearchco.com/) I recently built for them.
 - A React/Python app to assist people with moving house
 - [CV Blaster](https://github.com/foxleigh81/cv-blaster) A Python/NextJS tool to help people to manage their CV's online
 - A new Kubernetes-based homelab. You can see [my GitOps configs here](https://github.com/foxleigh81/homelab)
