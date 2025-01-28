@@ -24,7 +24,6 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 - I'm currently working with The Arch Company to support and augment the [new website](https://www.thearchco.com/) I recently built for them.
 - A React/Python app to assist people with moving house
 - [CV Blaster](https://github.com/foxleigh81/cv-blaster) A Python/NextJS tool to help people to manage their CV's online
-- A new Kubernetes-based homelab. You can see [my GitOps configs here](https://github.com/foxleigh81/homelab)
 - A NextJS/Sanity rebuild of my [Personal website](http://www.alexfoxleigh.com) which is now YEARS out of date. I've just published the beta version but still have [A few more upgrades in mind](https://github.com/foxleigh81/portfolio/issues)
 - As always, I'm working on my smart home, this is a huge undertaking with a lot of moving parts, it's primarily based around [Home Assistant](https://home-assistant.io) using [Node-Red](https://nodered.org) for all of it's automations. I plan on writing a few blog posts about it soon.
 
