@@ -27,6 +27,8 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 - A NextJS/Sanity rebuild of my [Personal website](http://www.alexfoxleigh.com) which is now YEARS out of date. I've just published the beta version but still have [A few more upgrades in mind](https://github.com/foxleigh81/portfolio/issues)
 - As always, I'm working on my smart home, this is a huge undertaking with a lot of moving parts, it's primarily based around [Home Assistant](https://home-assistant.io) using [Node-Red](https://nodered.org) for all of it's automations. I plan on writing a few blog posts about it soon.
 
+You won't find all of my projects on this GitHub account, I also have a 'software brand' of sorts called 'SpaceNectar', you can see the projects I've worked on for that right here: https://github.com/spacenectar
+
 ## Languages
 
 [![TypeScript Logo](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)&nbsp;
