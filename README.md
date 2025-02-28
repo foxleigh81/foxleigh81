@@ -55,6 +55,7 @@ You won't find all of my projects on this GitHub account, I also have a 'softwar
 
 [![NodeJS Logo](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)&nbsp;
 [![Python Logo](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://nodejs.org/en/)&nbsp;
+[![NestJS Logo](https://img.shields.io/badge/nestjs-#E0234E?style=for-the-badge&logo=NestJS&logoColor=white)](https://nestjs.com)&nbsp;
 [![Node-RED Logo](https://img.shields.io/badge/node&#8211;red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)](https://nodered.org/)&nbsp;
 [![MongoDB Logo](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)&nbsp;
 [![Postgress Logo](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)&nbsp;
