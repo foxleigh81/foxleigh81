@@ -46,7 +46,7 @@ You won't find all of my projects on this GitHub account, I also have a 'softwar
 [![VueJS Logo](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.JS&logoColor=white)](https://vuejs.org/)&nbsp;
 [![Tailwind lLogo](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Material UI Logo](https://img.shields.io/badge/material&nbsp;ui-007fff?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/material-ui/)&nbsp;
-[![Storybook Logo](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)](https://storybook.com/)&nbsp;
+[![Storybook Logo](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)](https://storybook.js.org/)&nbsp;
 [![Prettier Logo](https://img.shields.io/badge/PRETTIER-333?style=for-the-badge&logo=prettier&logoColor=F7B93E)](https://prettier.io/)&nbsp;
 [![Jest Logo](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)&nbsp;
 [![Testing Library Logo](https://img.shields.io/badge/testing&nbsp;library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)](https://testing-library.com/)&nbsp;
