@@ -34,7 +34,7 @@ You won't find all of my projects on this GitHub account, I also have a 'softwar
 [![TypeScript Logo](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)&nbsp;
 [![JavaScript Logo](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://www.javascript.com/)&nbsp;
 [![NodeJS Logo](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)&nbsp;
-[![Python Logo](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://nodejs.org/en/)&nbsp;
+[![Python Logo](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://python.org)&nbsp;
 
 ## Front end development
 
@@ -45,8 +45,8 @@ You won't find all of my projects on this GitHub account, I also have a 'softwar
 [![ReactJS Logo](https://img.shields.io/badge/React.js-333?style=for-the-badge&logo=React&logoColor=61DAFB)](https://reactjs.org/)&nbsp;
 [![VueJS Logo](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.JS&logoColor=white)](https://vuejs.org/)&nbsp;
 [![Tailwind lLogo](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Material UI Logo](https://img.shields.io/badge/material&nbsp;ui-007fff?style=for-the-badge&logo=mui&logoColor=white)](https://nodejs.org/en/)&nbsp;
-[![Storybook Logo](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)](https://reactjs.org/)&nbsp;
+[![Material UI Logo](https://img.shields.io/badge/material&nbsp;ui-007fff?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/material-ui/)&nbsp;
+[![Storybook Logo](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)](https://storybook.com/)&nbsp;
 [![Prettier Logo](https://img.shields.io/badge/PRETTIER-333?style=for-the-badge&logo=prettier&logoColor=F7B93E)](https://prettier.io/)&nbsp;
 [![Jest Logo](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)&nbsp;
 [![Testing Library Logo](https://img.shields.io/badge/testing&nbsp;library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)](https://testing-library.com/)&nbsp;
@@ -54,7 +54,7 @@ You won't find all of my projects on this GitHub account, I also have a 'softwar
 ## Backend / DB development
 
 [![NodeJS Logo](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)&nbsp;
-[![Python Logo](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://nodejs.org/en/)&nbsp;
+[![Python Logo](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://python.org)&nbsp;
 [![NestJS Logo](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)](https://nestjs.com)&nbsp;
 [![Node-RED Logo](https://img.shields.io/badge/node&#8211;red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)](https://nodered.org/)&nbsp;
 [![MongoDB Logo](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)&nbsp;
@@ -71,7 +71,7 @@ You won't find all of my projects on this GitHub account, I also have a 'softwar
 [![Gitlab Logo](https://img.shields.io/badge/gitlab-555?style=for-the-badge&logo=GitLab&logoColor=FCA121)](https://www.gitlab.com/)&nbsp;
 [![Bitbucket Logo](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://www.bitbucket.org/)&nbsp;
 [![Kubernetes Logo](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)&nbsp;
-[![Vercel Logo](https://img.shields.io/badge/vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://www.netlify.com/)&nbsp;
+[![Vercel Logo](https://img.shields.io/badge/vercel-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vercel.org/)&nbsp;
 [![Netlify Logo](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)&nbsp;
 [![Heroku Logo](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)&nbsp;
 [![NGINX Logo](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)&nbsp;
@@ -80,7 +80,7 @@ You won't find all of my projects on this GitHub account, I also have a 'softwar
 [![Debian Logo](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)&nbsp;
 [![NPM Logo](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)](https://www.npmjs.com/)&nbsp;
 [![Yarn Logo](https://img.shields.io/badge/YARN-2188b6?style=for-the-badge&logo=Yarn&logoColor=white)](https://yarnpkg.com/)&nbsp;
-[![Docker Logo](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.npmjs.com/)&nbsp;
+[![Docker Logo](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)&nbsp;
 [![Unraid Logo](https://img.shields.io/badge/unraid-333?style=for-the-badge&logo=unraid&logoColor=F15A2C)](https://unraid.net/)&nbsp;
 [![CircleCI Logo](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/)&nbsp;
 [![TravisCI Logo](https://img.shields.io/badge/TravisCI-3EAAAF?style=for-the-badge&logo=travis&logoColor=white)](https://www.travis-ci.com/)&nbsp;
@@ -88,7 +88,7 @@ You won't find all of my projects on this GitHub account, I also have a 'softwar
 
 ## Smarthome / Automation
 
-[![Home Assistant Logo](https://img.shields.io/badge/home&nbsp;assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)](https://nodered.org/)&nbsp;
+[![Home Assistant Logo](https://img.shields.io/badge/home&nbsp;assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)](https://home-assistant.io/)&nbsp;
 [![Node-RED Logo](https://img.shields.io/badge/node&#8211;red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)](https://nodered.org/)&nbsp;
 [![MQTT Logo](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=EclipseMosquitto&logoColor=white)](https://mqtt.org/)&nbsp;
 [![Arduino Logo](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)&nbsp;
