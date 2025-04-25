@@ -23,7 +23,7 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 
 - I'm currently working with Southern Water to help them to improve their [Rivers and Seas Watch service](https://experience.arcgis.com/experience/e9a1db8d193d4cd582d550285a3aeb44)
 - [Box Tracker](https://github.com/spacenectar/box-tracker) A Next/Nest app to assist people with moving house
-- [CV Blaster](https://github.com/foxleigh81/cv-blaster) A Python/NextJS tool to help people to manage their CV's online
+- [Foxy's Tale](https://github.com/foxleigh81/foxy-blog)  My blog site (https://www.foxleigh.me). I recently replaced and old static version which used Markdown for each post with a full Next/Sanity driven site.
 - A NextJS/Sanity rebuild of my [Personal website](http://www.alexfoxleigh.com) which is now YEARS out of date. I've just published a new version but still have [A few more upgrades in mind](https://github.com/foxleigh81/portfolio/issues)
 - As always, I'm working on my smart home, this is a huge undertaking with a lot of moving parts, it's primarily based around [Home Assistant](https://home-assistant.io) using [Node-Red](https://nodered.org) for all of it's automations. I plan on writing a few blog posts about it soon.
 
