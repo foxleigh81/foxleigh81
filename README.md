@@ -21,7 +21,7 @@ I'm a big smart-home enthusiast and a general automation nerd (blog post coming 
 
 ## ⚙️ &nbsp; I’m currently working on
 
-- I'm currently working with Southern Water to help them to improve their [Rivers and Seas Watch service](https://experience.arcgis.com/experience/e9a1db8d193d4cd582d550285a3aeb44)
+- I'm currently working on my first ever computer game! A bullet-heaven style game built in Godot: [Star Fall](https://spacenectar.itch.io/star-fall)
 - [Box Tracker](https://github.com/spacenectar/box-tracker) A Next/Nest app to assist people with moving house
 - [Foxy's Tale](https://github.com/foxleigh81/foxy-blog)  My blog site (https://www.foxleigh.me). I recently replaced and old static version which used Markdown for each post with a full Next/Sanity driven site.
 - A NextJS/Sanity rebuild of my [Personal website](http://www.alexfoxleigh.com) which is now YEARS out of date. I've just published a new version but still have [A few more upgrades in mind](https://github.com/foxleigh81/portfolio/issues)
