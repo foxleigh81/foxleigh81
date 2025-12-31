@@ -4,7 +4,7 @@
 
 ## ✨ Who am I? 
 
-That's a fair question. I'm Alex Foxleigh and it's very nice to meet you. I'm a frontend technical architect/tech lead, mostly focused on NodeJs and Next.js and Storybook. I was the founding developer of the [Royal Navy Design System](https://storybook.design-system.navy.digital.mod.uk/?path=/docs/getting-started--docs). 
+That's a fair question. I'm Alex Foxleigh and it's very nice to meet you. I'm the Technical Lead for Frontend and Mobile at [SilverRail Techologies](https://silverrailtech.com/). I was also the founding developer of the [Royal Navy Design System](https://storybook.design-system.navy.digital.mod.uk/?path=/docs/getting-started--docs). 
 
 I've also worked with various government/military agencies including (but not limited to):
 
@@ -17,16 +17,13 @@ I've also worked with various government/military agencies including (but not li
 - [The Department for International Trade](https://www.trade.gov.uk/)
 - The UK Intelligence community
 
-I'm a big smart-home enthusiast and a general automation nerd (blog post coming soon).
+I'm a big smart-home enthusiast and a general automation nerd.
 
 ## ⚙️ &nbsp; I’m currently working on
 
 - I've just launched a tech YouTube channel called ["Foxy's Lab"](https://www.youtube.com/@foxyslab). 
 - [Foxy's Tale](https://github.com/foxleigh81/foxy-blog)  My blog site (https://www.foxleigh.me). I recently replaced and old static version which used Markdown for each post with a full Next/Sanity driven site.
-- A NextJS/Sanity rebuild of my [Personal website](http://www.alexfoxleigh.com). I've recently published a new version but still have [A few more upgrades in mind](https://github.com/foxleigh81/portfolio/issues)
 - As always, I'm working on my smart home, this is a huge undertaking with a lot of moving parts, it's primarily based around [Home Assistant](https://home-assistant.io) using [Node-Red](https://nodered.org) for all of it's automations. 
-
-You won't find all of my projects on this GitHub account, I also have a 'software brand' of sorts called 'SpaceNectar', you can see the projects I've worked on for that right here: https://github.com/spacenectar
 
 ## Languages
 
