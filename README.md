@@ -4,7 +4,7 @@
 
 ## ✨ Who am I? 
 
-That's a fair question. I'm Alex Foxleigh and it's very nice to meet you. I'm the Technical Lead for Frontend and Mobile at [SilverRail Techologies](https://silverrailtech.com/). I was also the founding developer of the [Royal Navy Design System](https://storybook.design-system.navy.digital.mod.uk/?path=/docs/getting-started--docs). 
+That's a fair question. I'm Alex Foxleigh and it's very nice to meet you. I'm the Technical Lead Engineer for Frontend and Mobile at [SilverRail Techologies](https://silverrailtech.com/). I was also the founding developer of the [Royal Navy Design System](https://storybook.design-system.navy.digital.mod.uk/?path=/docs/getting-started--docs). 
 
 I've also worked with various government/military agencies including (but not limited to):
 
